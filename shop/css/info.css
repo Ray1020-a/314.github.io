@@ -1,0 +1,172 @@
+{literal}
+<style type="text/css">
+<!--
+#test{
+}
+body {
+	margin: 0px;
+	font-family: sans-serif;
+	background-color:#eee;
+}
+#container {
+	margin-top:0px;
+	padding-top:0px;
+	background-color:#eee;
+	//border:1px #000 solid;
+	width:1260px;
+}
+#MainShow {
+	margin:10px 5px;
+	padding:15px 0px;
+	background-color:#fff;
+	border:1px #ccc solid;
+	width:920px;
+	float:left;
+}
+h1 {
+	margin:5px 20px 20px 20px;
+	font-size:22px;
+	color:#000;
+	font-weight:bold;
+	text-decoration:none;
+	text-shadow:1px 1px 1px #DDDDDD;
+}
+h2 {
+	margin:18px 0px 5px 0px;
+	font-size:16px;
+	color:#000;
+	font-weight:bold;
+	text-decoration:none;
+	text-shadow:1px 1px 1px #DDDDDD;
+}
+#content {
+	font-size:15px;
+	color:black;
+	margin:0px 20px 0px 20px;
+	padding-bottom:0px;
+	line-height:25px;
+}
+#content a{
+	text-decoration:none;
+	color:#003399;
+}
+#content a:hover{
+	text-decoration:underline;
+	color:#003399;
+}
+#CodeBox {
+	font-size:13px;
+	background-color:#fafafa;
+	border:1px #cccccc dashed;
+	padding:8px;
+	font-family:sans-serif;
+	margin:18px 0px;
+}
+#OutputBox{
+	padding:5px;
+	border:1px #ccc dashed;
+	font-size:13px;
+	margin:20px 10px;
+}
+.table_list {
+	margin:18px 0px;
+	font-size:15px;
+	background-color:#dddddd;
+}
+.table_list tr.Top {
+	background-color:#eee;
+	font-family:sans-serif;
+}
+.table_list tr.Line {
+	background-color:#ffffff;
+	font-family:sans-serif;
+}
+.table_list tr.Line a{
+	text-decoration:none;
+	color:#003399;
+}
+.table_list tr.Line a:hover{
+	text-decoration:underline;
+	color:#003399;
+}
+.table_list tr.Line:hover {
+	background-color:#f8f8f8;
+}
+.table_list td {
+	padding:3px 8px;
+}
+.table_list tr.Bottom {
+	font-size:13px;
+	font-weight:bold;
+	height:25px;
+	background-color:#e3e9ff;
+	font-family:sans-serif;
+}
+#SuggestTopic{
+	//width:90%;
+	//border:1px #eee solid;
+	padding:10px 10px 10px 33px;
+	font-size:13px;
+	//margin-top:15px;
+	//margin-left:20px;
+}
+#SuggestTopic p{
+	margin:5px 0px 15px -15px;
+	padding:3px 6px;
+	font-size:14px;
+	font-weight:bold;
+	background-color:#FFE8BF;
+}
+#SuggestTopic ul{
+	padding:0px 0px 0px 10px;
+	margin:0px;
+}
+#SuggestTopic ul li {
+	padding:6px 2px;
+	list-style-type: decimal;
+	border-bottom:1px #ccc dashed;
+}
+#SuggestTopic ul li:hover{
+	padding:6px 2px;
+	background-color:#fafafa;
+}
+#SuggestTopic ul li a{
+	text-decoration:none;
+	color:#003399;
+}
+#SuggestTopic ul li a:hover{
+	text-decoration:underline;
+	color:#003399;
+}
+#Ads1{
+	/*Google 原生_文章內置 1*/
+	margin:0px 20px 20px 20px;
+	//border-bottom:1px #ddd solid;
+	padding:0px;
+}
+#Ads2{
+	/*Google 原生_文章內置 2*/
+	margin:5px 20px 20px 20px;
+	border-top:1px #ddd solid;
+	border-bottom:1px #ddd solid;
+	padding:10px 0px;
+}
+#Ads3{
+	/*回應式連結_1*/
+	margin:10px 20px;
+}
+#Ads4,#Ads5,#Ads6,#Ads7,#Ads8{
+	margin-bottom:10px;
+}
+#AdsLink1{
+	border:1px #B7A970 solid;
+	background-color:#FFFEEB;
+	padding:5px;
+	margin-bottom:8px;
+}
+#FB {
+	margin-bottom:10px;	
+}
+-->
+</style>
+{/literal}
